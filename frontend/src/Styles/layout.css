@@ -1,0 +1,4 @@
+.cacty_layout_inner {
+	display: flex;
+	flex-direction: row;
+}
